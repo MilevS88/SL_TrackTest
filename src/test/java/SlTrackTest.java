@@ -6,7 +6,7 @@ import com.codeborne.selenide.SelenideElement;
 import org.junit.jupiter.api.Test;
 import org.openqa.selenium.By;
 
-public class SL_TrackTest {
+public class SlTrackTest {
     @Test
     void test01Authentication(){
         open("https://slqamsk.github.io/cases/sltrack/v02/");
