@@ -13,4 +13,5 @@ public class LoginTest {
         $x("//input[@id='password']").setValue(pass);
         $x("//button[@id='loginButton']").click();
     }
+
 }
